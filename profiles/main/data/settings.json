@@ -1,0 +1,46 @@
+{
+    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+    "editor.minimap.enabled": false,
+    "gitlens.ai.model": "vscode",
+    "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+    "geminicodeassist.project": "phrasal-splicer-jhv63",
+    "kilo-code.allowedCommands": [
+        "git log",
+        "git diff",
+        "git show",
+        "ls",
+        "echo",
+        "docker",
+        "pip3"
+    ],
+    "kilo-code.deniedCommands": [],
+    "cppcheck.commandArguments": [
+        "--enable=all",
+        "--quiet",
+        "--project=../build/compile_commands.json",
+        "--enable=unusedFunction"
+    ],
+    "remote.autoForwardPortsSource": "hybrid",
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "clangTidy.systemIncludePath": [
+        "/u/sw/toolchains/gcc-glibc/11.2.0/base/include",
+        "/u/sw/toolchains/gcc-glibc/11.2.0/pkgs/eigen/3.3.9/include/eigen3",
+        "/u/sw/toolchains/gcc-glibc/11.2.0/pkgs/lis/2.0.30/include",
+        "/u/sw/toolchains/gcc-glibc/11.2.0/pkgs/dealii/9.5.1/include"
+    ],
+    "C_Cpp.addNodeAddonIncludePaths": true,
+    "C_Cpp.autoAddFileAssociations": true,
+    "C_Cpp.autocompleteAddParentheses": true,
+    "C_Cpp.codeAnalysis.clangTidy.useBuildPath": true,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "workbench.editorAssociations": {
+        "*.dll": "default"
+    },
+    "kilo-code.debug": false,
+    "claudeCode.selectedModel": "sonnet",
+    "sync.gist": "30bc6b82e39292b8f716263400a3e2d8",
+    "sync.autoUpload": false
+}

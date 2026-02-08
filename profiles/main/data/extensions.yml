@@ -1,0 +1,146 @@
+builtin:
+  disabled:
+    - anysphere.cursor-agent-exec
+    - anysphere.cursor-always-local
+    - anysphere.cursor-retrieval
+    - undefined.cursor-themes
+disabled: []
+enabled:
+  - id: alexcvzz.vscode-sqlite
+    uuid: eaee103c-e866-4b73-87f8-3749cab64da2
+  - id: anysphere.cursorpyright
+    uuid: d7f9f831-2239-4783-9d06-18d27f285818
+  - id: anysphere.remote-containers
+    uuid: 94d8b289-9db0-4c3c-b4f3-a3294c789678
+  - id: anysphere.remote-ssh
+    uuid: 73a45d83-83c7-4b22-bebf-c9130b0ab3f3
+  - id: anysphere.remote-wsl
+    uuid: 39a52826-2472-403d-8410-37905302f26a
+  - id: bierner.markdown-preview-github-styles
+    uuid: 5cbdf58a-694a-4aba-af08-61d00842eb03
+  - id: chadalen.vscode-jetbrains-icon-theme
+    uuid: 641f0c25-0eca-440e-bcf8-8d36d9f23044
+  - id: codezombiech.gitignore
+    uuid: 3e891cf9-53cb-49a3-8d01-8f0b1f0afb29
+  - id: cschlosser.doxdocgen
+    uuid: da7e26d5-d57c-4742-ab47-d77fb189e195
+  - id: cweijan.dbclient-jdbc
+    uuid: 1fe0d785-8db6-44ef-8113-cb0d98a88473
+  - id: cweijan.vscode-mysql-client2
+    uuid: c0fde3ce-39d4-4ea8-89ce-e2a202eeacaf
+  - id: dan-c-underwood.arm
+    uuid: 99e3906b-d232-48f2-902a-fcba762add97
+  - id: daohong-emilio.yash
+    uuid: 3ac9d8a3-4e1f-4953-82e8-3a1c979cbe08
+  - id: donjayamanne.githistory
+    uuid: 5960f38e-0bbe-4644-8f9c-9c8824e82511
+  - id: dsznajder.es7-react-js-snippets
+    uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: formulahendry.vscode-mysql
+    uuid: d4598ff7-3c39-47f6-bf45-2df845252570
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: isudox.vscode-jetbrains-keybindings
+    uuid: 6bd47346-1513-4798-82ce-9e7aa51bac28
+  - id: JackBoosY.vcpkg-cmake-tools
+    uuid: 05b85465-0b12-43b7-9b10-c1ee10b4130a
+  - id: jakebathman.mysql-syntax
+    uuid: acfa08ec-e98b-4b39-8561-1bf1938e71da
+  - id: jeff-hykin.better-cpp-syntax
+    uuid: 73767f91-7dcb-43cb-90b3-596d073eea1f
+  - id: k--kato.intellij-idea-keybindings
+    uuid: f30b63fa-e34a-40af-a573-5de5ecfb6c5e
+  - id: KevinRose.vsc-python-indent
+    uuid: f3cbfb84-b1e1-40ff-b70f-877253461260
+  - id: lfurzewaddock.vscode-wsl-workspacefolder
+    uuid: d0c2b273-9cad-4046-82ff-8858bffc07d9
+  - id: luniclynx.lex
+    uuid: b7a7f8bf-e09b-4647-bea5-27b22ab9e91e
+  - id: mechatroner.rainbow-csv
+    uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
+  - id: MichaelZhou.fleet-theme
+    uuid: d77a602f-e178-46b2-9ec5-2969cbbf94aa
+  - id: Mostik.JetBrainsIcons
+    uuid: 7500f4ec-1376-46b1-84db-6210067b8a76
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-pylance
+    uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-toolsai.datawrangler
+    uuid: de3960e6-b262-4565-8a1c-9870629f1ed9
+  - id: ms-toolsai.jupyter
+    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
+  - id: ms-toolsai.jupyter-renderers
+    uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
+  - id: ms-toolsai.vscode-jupyter-cell-tags
+    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
+  - id: ms-toolsai.vscode-jupyter-slideshow
+    uuid: e153ca70-b543-4865-b4c5-b31d34185948
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: ms-vscode.cmake-tools
+    uuid: 7c889349-8749-43d4-8b5e-08939936d7f4
+  - id: ms-vscode.cpptools
+    uuid: 690b692e-e8a9-493f-b802-8089d50ac1b2
+  - id: ms-vscode.cpptools-extension-pack
+    uuid: 3957b2f6-f086-49b5-a7b4-5da772123130
+  - id: ms-vscode.cpptools-themes
+    uuid: 99b17261-8f6e-45f0-9ad5-a69c6f509a4f
+  - id: ms-vscode.makefile-tools
+    uuid: e09cf600-90a1-414e-92a0-031f1a5391c6
+  - id: octref.vetur
+    uuid: 2f5dd8cb-d251-4d70-abfe-ddebcb077483
+  - id: Oracle.oracle-java
+    uuid: 17ce260e-a479-4289-b71d-93cf366d3708
+  - id: PKief.material-icon-theme
+    uuid: 5db78037-f674-459f-a236-db622c427c5b
+  - id: qwtel.sqlite-viewer
+    uuid: 94fef082-6c2d-43ac-9540-6617b51a3a12
+  - id: redhat.java
+    uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
+  - id: ritwickdey.LiveServer
+    uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
+  - id: shd101wyy.markdown-preview-enhanced
+    uuid: 3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a
+  - id: starkwang.markdown
+    uuid: 957be4ab-b0ef-413f-8f1d-6d6fac19c4eb
+  - id: tht13.rst-vscode
+    uuid: 9a76007e-6367-44f0-b175-2439b4e81196
+  - id: tomoki1207.pdf
+    uuid: 6db08635-0c6a-45ba-9a4b-8c3e192c63c2
+  - id: torn4dom4n.latex-support
+    uuid: 6edd1f7d-7d66-42ee-a32f-62c990bcfa19
+  - id: twxs.cmake
+    uuid: 2be7cf14-2603-402e-9771-fd79df83cdf8
+  - id: vscjava.vscode-gradle
+    uuid: a226f06e-9b5e-493b-b92a-553d3572f969
+  - id: vscjava.vscode-java-debug
+    uuid: 61fcd0cf-64d7-4836-8d6b-d55f4fb83281
+  - id: vscjava.vscode-java-dependency
+    uuid: 7865e561-1c83-410e-9b99-aabada597a7e
+  - id: vscjava.vscode-java-pack
+    uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
+  - id: vscjava.vscode-java-test
+    uuid: 67c06b0d-1891-42ca-b2a8-113e79bff069
+  - id: vscjava.vscode-maven
+    uuid: b0f06c6b-24fb-4d7b-bd79-bc5e2fa17312
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: waderyan.gitblame
+    uuid: 2335b326-c334-4e81-bc51-c408fcec6e7c
+  - id: wholroyd.jinja
+    uuid: c941a679-d500-46a8-b2a9-208063125901
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
+  - id: ziyasal.vscode-open-in-github
+    uuid: 1d4d80c9-0d33-48a1-88a8-19ff80bc8e2a
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

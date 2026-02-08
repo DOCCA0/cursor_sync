@@ -28,8 +28,6 @@ enabled:
     uuid: 1fe0d785-8db6-44ef-8113-cb0d98a88473
   - id: cweijan.vscode-mysql-client2
     uuid: c0fde3ce-39d4-4ea8-89ce-e2a202eeacaf
-  - id: dan-c-underwood.arm
-    uuid: 99e3906b-d232-48f2-902a-fcba762add97
   - id: daohong-emilio.yash
     uuid: 3ac9d8a3-4e1f-4953-82e8-3a1c979cbe08
   - id: donjayamanne.githistory
